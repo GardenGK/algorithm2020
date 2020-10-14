@@ -9,3 +9,6 @@ programmers : 68644 vector::sort, erase, unique
 
 Monday
 programmers : 
+
+Wed
+programmers : 42840, 
